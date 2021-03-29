@@ -19,7 +19,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div style="background-color:#fffa00; color:#ff6a00">
+        <div style="background-color:#fffa00; color:#fffa00">
         </div>
     </form>
     <!-- ===============================================-->
