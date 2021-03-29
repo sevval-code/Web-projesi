@@ -1,0 +1,5 @@
+C:\Users\Sevval\source\repos\WebProgramlama\Proje.DataAccess\bin\Debug\Proje.DataAccess.dll
+C:\Users\Sevval\source\repos\WebProgramlama\Proje.DataAccess\bin\Debug\Proje.DataAccess.pdb
+C:\Users\Sevval\source\repos\WebProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.csprojAssemblyReference.cache
+C:\Users\Sevval\source\repos\WebProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.dll
+C:\Users\Sevval\source\repos\WebProgramlama\Proje.DataAccess\obj\Debug\Proje.DataAccess.pdb

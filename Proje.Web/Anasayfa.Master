@@ -1,0 +1,26 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Anasayfa.master.cs" Inherits="Proje.Web.Anasayfa" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div style="width=100%; height=40px; background-color:chocolate; color:#fff">
+            Ust Menü
+            </div>
+        <div style="float:left; overflow:hidden; display:block; height:100px; width:79%">
+            Sol Menü
+        </div>
+        <div style="float:left; overflow:hidden; display:block; background-color:blueviolet; height:100px; width:79%">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+    </form>
+</body>
+</html>
